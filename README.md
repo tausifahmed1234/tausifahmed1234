@@ -1,9 +1,9 @@
 <div style="width:100%;object-fit:cover;">
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="850" height="320" />
+  <img align="center" alt="Coding animation" src="./assets/banner.gif" width="900" height="338" />
 </div>
 
 <h1>
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B+What's+up%3F;I'm+Tausif+Ahmed!;Junior+Software+Engineer;" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&color=7A98AC&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B+What's+up%3F;I'm+Tausif+Ahmed!;Junior+Software+Engineer;" />
 </h1>
 
 ## ⚙️ About Me
