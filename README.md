@@ -49,8 +49,6 @@
 - 🌱 Currently learning full-stack development — back-end and databases.
 - 💬 Ask me about JavaScript, React and anything front-end.
 
-I'm a junior engineer actively growing into full-stack development, and I believe the best way to learn is by building alongside other people. Whether you're a developer, a designer, or someone with an idea worth shipping, I'd love to hear from you. Feel free to reach out for collaboration, to share feedback on my projects, or just to talk shop. Let's learn from each other and build something worthwhile together.
-
 <br/>
 
 ## 📊 Github Stats
